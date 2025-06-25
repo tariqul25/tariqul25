@@ -4,11 +4,12 @@
   <img src="https://github.com/tariqul25/tariqul25/blob/main/banner.png?raw=true" alt="Banner" />
 </p>
 
-- 🔭 I’m currently working on **Historical-Articats**
+## 💫 About Me
 
-- 🌱 I’m currently learning **Mongodb|Express|Node**
-
-- 💬 Ask me about **JavaScript|React|React-router**
+- I am Passionate web developer focused on building dynamic and user-friendly applications.  
+- Currently learning **MongoDB** and **React** through hands-on experience.  
+- Working on a full-stack project called **Historical Artifact Tracker**.  
+- Always eager to learn, improve, and contribute to meaningful open-source projects.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
