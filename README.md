@@ -81,8 +81,9 @@
 
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul25" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=tariqul25" alt="GitHub Streak" />
 </p>
+
 
 ---
 ## 📫 Connect with me
