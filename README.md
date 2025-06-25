@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Taiqul 👋</h1>
-<h3 align="center">Front-End Developer from Bangladesh <small>BD</small></h3>
+<h3 align="center">Front-End Developer from Bangladesh</h3>
 
 ---
 
@@ -66,8 +66,25 @@
   </a>
 </p>
 
+
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tariqul25&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tariqul25&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul25" alt="GitHub Streak" />
+</p>
+
+---
 ## 📫 Connect with me
 
 <p align="left">
@@ -82,20 +99,4 @@
   <a href="https://github.com/tariqul25" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tariqul25&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tariqul25&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul25" alt="GitHub Streak" />
 </p>
