@@ -80,8 +80,8 @@
 </p>
 
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=tariqul25" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tariqul25&theme=default" alt="GitHub Streak" />
 </p>
 
 
