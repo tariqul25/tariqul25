@@ -1,5 +1,6 @@
 <h1 align="center">Hi,I'm Tariqul👋</h1>
 <h3 align="center">A passionate Front-End developer from BD</h3>
+![Banner](https://github.com/tariqul25/tariqul25/blob/main/banner.png?raw=true)
 
 - 🔭 I’m currently working on **Historical-Articats**
 
