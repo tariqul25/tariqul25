@@ -19,7 +19,7 @@
 ## 🛠️ Skills & Tools
 
 ### Front-End
-<p align="center">
+<p align="flex gap-1">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" />
@@ -28,9 +28,9 @@
 
 ### Back-End
 
-<p classname='flex items-center justify-center gap-1'>
+<p classname='flex gap-1'>
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" classname="flex items-center justify-center" alt="Express" width="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40"/>
 
@@ -38,7 +38,7 @@
 </p>
 
 ### Tools
-<p align="center">
+<p align="flex gap-1">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" />
