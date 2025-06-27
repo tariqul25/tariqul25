@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Tariqul 👋</h1>
-<h3 align="center">Front-End Developer from Bangladesh <sub>BD</sub></h3>
+<h3 align="center">Front-End Developer from Bangladesh 🇧🇩</h3>
 
 ---
 
@@ -69,13 +69,8 @@
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://fb.com/tariqul25" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" alt="Facebook" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tariqul25/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
-  </a>
-  <a href="https://github.com/tariqul25" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
-  </a>
+  <a href="[https://linkedin.com/in/shakilahmedatik](https://www.linkedin.com/in/tariqul25/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tariqul" height="30" width="40" /></a>
+  <a href="https://fb.com/tariqul25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tariqul25" height="30" width="40" /></a>  
+  <a href="https://x.com/tariqul025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tariqul" height="30" width="40" /></a>
+  
 </p>
