@@ -39,10 +39,14 @@
 
 ### Back-End
 
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40"/> 
+<p classname='flex gap-1'>
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40"/>
+
+
+</p>
 
 ### Tools
 <p>
