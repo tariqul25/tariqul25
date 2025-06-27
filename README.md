@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tariqul25/tariqul25/blob/main/hero?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/tariqul25/tariqul25/blob/main/hero.png?raw=true" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Tariqul 👋</h1>
@@ -28,16 +28,13 @@
 
 ### Back-End
 
-<p classname='flex gap-1'>
+<p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40"/>
-  <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40"/>
 </p>
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40"/>
 
-
-</p>
 
 ### Tools
 <p align="flex gap-1">
@@ -71,9 +68,13 @@
 ## 📫 Connect with me
 
 <p align="left">
-  <img src="https://fb.com/tariqul25" alt="Facebook" width="40"/>
-
-<img src="https://www.linkedin.com/in/tariqul25/" alt="LinkedIn" width="40"/>
-<img src="https://github.com/tariqul25" alt="GitHub" width="40"/>
-
+  <a href="https://fb.com/tariqul25" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" alt="Facebook" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tariqul25/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://github.com/tariqul25" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
+  </a>
 </p>
