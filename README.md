@@ -2,7 +2,7 @@
   <img src="https://github.com/tariqul25/tariqul25/blob/main/banner.png?raw=true" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Taiqul 👋</h1>
+<h1 align="center">Hi, I'm Tariqul 👋</h1>
 <h3 align="center">Front-End Developer from Bangladesh</h3>
 
 ---
@@ -38,17 +38,11 @@
 </p>
 
 ### Back-End
-<p>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-</p>
+
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40"/>
 
 ### Tools
 <p>
