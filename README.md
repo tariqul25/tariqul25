@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Tariqul 👋</h1>
-<h3 align="center">Front-End Developer from Bangladesh</h3>
+<h3 align="center">Front-End Developer from Bangladesh <sup>BD</sup></h3>
 
 ---
 
@@ -22,7 +22,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" style="margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/tailwindlabs/brand/master/tailwindcss-mark.svg" alt="TailwindCSS" width="50" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" alt="TailwindCSS" width="50" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
 </p>
 
