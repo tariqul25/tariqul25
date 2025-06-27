@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Tariqul 👋</h1>
-<h3 align="center">Front-End Developer from Bangladesh <sup>BD</sup></h3>
+<h3 align="center">Front-End Developer from Bangladesh <sub>BD</sub></h3>
 
 ---
 
