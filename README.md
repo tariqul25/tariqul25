@@ -19,16 +19,17 @@
 ## 🛠️ Skills & Tools
 
 ### Front-End
-<p align="flex gap-1">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" />
-  <img src="https://raw.githubusercontent.com/tailwindlabs/brand/master/tailwindcss-mark.svg" alt="TailwindCSS" width="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/tailwindlabs/brand/master/tailwindcss-mark.svg" alt="TailwindCSS" width="50" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
 </p>
 
+
 ### Back-End
 
-<p align="center">
+<p align="flex gap-1">
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40"/> 
