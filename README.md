@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tariqul25/tariqul25/blob/main/hero.png?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/tariqul25/tariqul25/blob/main/tariqul25.png?raw=true" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Tariqul 👋</h1>
