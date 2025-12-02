@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/tariqul25/tariqul25/blob/main/tariqul25.png?raw=true" alt="Banner" width="100%" />
+<img src="https://github.com/tariqul25/tariqul25/blob/main/github_banner.png?raw=true" alt="Banner" width="100%" />
 
 # Hi, I'm Tariqul 👋
 
